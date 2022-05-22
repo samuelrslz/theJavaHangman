@@ -19,7 +19,6 @@ I chose to write this game, so I can have a basic interaction with Java. I didn'
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [W3 Schools - Java Tutorial](https://www.w3schools.com/java/)
 * [LinkedIn - Learning Java](https://www.linkedin.com/learning-login/share?account=2153100&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-java-4%3Ftrk%3Dshare_ent_url%26shareId%3D5n7WlCi7QaC14WO%252BBX6XLA%253D%253D)
 
